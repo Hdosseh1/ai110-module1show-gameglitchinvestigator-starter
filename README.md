@@ -24,5 +24,5 @@ It wrote the code, ran away, and now the game is unplayable.
    - Keep fixing until all tests pass!
 
 ## 📸 Demo
-
+![alt text](<Screenshot 2026-02-07 at 3.42.05 PM.png>)
 [Insert screenshot of your fixed, winning game here]

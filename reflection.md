@@ -32,7 +32,7 @@ After running pytest and rerunning the game live, I checked the errors that were
 - In your own words, explain why the secret number kept changing in the original app.
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
 - What change did you make that finally gave the game a stable secret number?
-
+For me the secret number never kept changing. The issues I had were with the hints and attempts calculation. The number has been stable in all my test runs.
 ---
 
 ## 5. Looking ahead: your developer habits
@@ -41,3 +41,4 @@ After running pytest and rerunning the game live, I checked the errors that were
   - This could be a testing habit, a prompting strategy, or a way you used Git.
 - What is one thing you would do differently next time you work with AI on a coding task?
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+I am definitely going to be using pytest to test my code more often with the help of Copiloty rather brute forcing my way through. When using AI, I am going to let it focus on one bug at a time since it proved more helpful and accurate and I am also going to mark bugs in my code I want it to fix so that it's more specific for the AI. All in all, I have learnt that having AI generate code for youis not bad as long as you look over it and provide it with as much details always.
